@@ -1,0 +1,6 @@
+fdlfjdkjfdkjfdkjfdkjfk
+fdlf--dkjfdkjfdkjffffd
+fdlfjdkjfdkjfdkjfdzzzxxxfk
+123fdlfjdkjfdkjfdkjfdkjfk
+fdlfjdkjfdkjfdkjfdkjfk
+通过git diff 比较 工作区 与 暂存区 文件差异
